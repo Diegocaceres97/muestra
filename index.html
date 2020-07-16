@@ -4,31 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="./style.css">
+    <!--Hoja de estilo-->
+    <link rel="stylesheet" href="./css/style.css">
+  <!-- Compiled and minified CSS MATERIALIZE CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <title>Diego Caceres WB</title>
 </head>
 <body>
-    <nav>
+    <nav class="purple">
         <div class="hamburger">
             <div class="line"></div>
             <div class="line"></div>
             <div class="line"></div>
         </div>
         <ul class="nav-links">
-            <li><a href="#">About</a></li>
+            <li><a href="#About">About</a></li>
             <li><a href="#">Contact</a></li>
             <li><a href="#">Projects</a></li>
         </ul>
     </nav>
     <section class="landing">
-        <img src="./circles.svg" alt="circulos">
+        <img src="./circles.svg" alt="circulos" class="cir">
         <h1>I do your project</h1>
-
             <p>Hola soy Diego Caceres, un desarrollador a tu servicio...<span>&#160</span></p>
-        
     </section>
-    
-    
-    <script src="app.js"></script>
+    <!--About-->
+    <div id="About">
+<div class="row">
+    <div class="col s5">
+        <center>
+        <img src="./image/Mia.jpg" alt="Imagen autor" class="mph"></center>
+    </div>
+    <div class="col s5" id="lf">
+        <p class="white flow-text">Ingeniero de sistemas en formación y futuro desarrollador, trabajo con varias tecnologías, amante de hacer
+            las cosas bien y de ver mis clientes felices con lo que construimos juntos.
+        </p>
+        <blockquote class="white">
+            "Solo basta una idea para construir grandes cosas"
+            <br>
+            - Diego Caceres
+          </blockquote>
+    </div>
+</div>
+</div>
+    <!--Scripts usados--> 
+    <script src="./js/app.js"></script>
 </body>
 </html>

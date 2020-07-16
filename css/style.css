@@ -9,8 +9,6 @@ body{
 nav{
     height: 10vh;
     background:#5b78c7;
-    position: sticky;
-    top: 0;
 }
 .nav-links {
     display: flex;
@@ -96,6 +94,10 @@ transition: all 0.5s ease 0.2s;
         margin-top: -65px;
     font-size: smaller;
     }
+    .row #lf{
+        margin-top: -6px;
+        text-align: center;
+    }
     
 }
 p{
@@ -124,14 +126,14 @@ width: 0;
 .cir:hover{
    transform: rotateZ(360deg);
     }
-  #prr{
-text-align: justify;
-text-justify: auto;
-  }
-  #About #lf p blockquote{
-    margin-top: 100px;
-  }
+.otro{
+    margin: 30px 0 0 500px;
+}
+  #lf{
+      margin-top: 55px;
+      text-align: justify;
+  } 
   
   
-
+  
 
