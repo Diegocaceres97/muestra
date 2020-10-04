@@ -135,7 +135,10 @@ text-justify: auto;
   #About #lf p blockquote{
     margin-top: 100px;
   }
- 
+#projects img{
+    margin-top: 100px;
+}
+
   
   
 
