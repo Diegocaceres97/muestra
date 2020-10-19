@@ -1,1 +1,1 @@
-Este repositorio fue creado con tal de mostrarle a mis potenciales clientes el amor y pasion que tengo por mi trabajo, mi responsabilidad y mi creatividad al momento de trabajar con las tecnologías, además, de lo fácil que puede ser adaptarme para mí a los diversos ambientes de trabajo
+Este repositorio fue creado con tal de mostrarle a mis potenciales clientes el amor y pasion que tengo por mi trabajo, mi responsabilidad y mi creatividad al momento de trabajar con las tecnologías, además, de lo fácil que puede ser adaptarme para mí a los diversos ambientes de trabajo.
